@@ -1,0 +1,27 @@
+#name {
+    font-size: 2em;
+    font-weight: bold;
+    margin-bottom: .67em;
+}
+#major {
+    font-style: italic;
+}
+#bio {
+    margin: 1em 0;
+}
+#bioimage {
+    border-radius: 5px;
+}
+
+#music {
+    font-style: italic;
+    font-weight: bold;
+}
+.subhead {
+    font-style: italic; 
+    margin: 10px 12px; 
+    font-size: 1.7em;
+}
+.audioWeek {
+    font-size: 1.4em;
+}
